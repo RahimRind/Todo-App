@@ -1,0 +1,44 @@
+body{
+    margin: auto;
+    
+    width: 30%;
+    
+}
+main{ 
+    border: 1px solid black;
+    background-color: rgb(255, 0, 140);
+}
+h1{
+    font-size: 60px;
+    font-style:italic;
+}
+
+div{
+    /* background-color:coral;  */
+    text-align: center;
+    margin: auto;
+}
+.input{
+    height: 25px;
+    width: 400px;
+    text-align: center;
+}
+
+button{
+    padding: 5px 5px 5px 5px;
+    padding-right: 7px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    font-weight: 100;
+    cursor: pointer;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    /* color: rgb(244, 56, 56); */
+}
+ol{
+    text-align: center;
+    background-color:rgb(255, 214, 80);
+}
